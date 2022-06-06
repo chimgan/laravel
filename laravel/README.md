@@ -10,3 +10,5 @@ Refactor code for better maintainability and readability ✨
 
 Debug edge case scenario for enhanced robustness 🐞
 
+Merge feature branch with master for seamless deployment 🚀
+
