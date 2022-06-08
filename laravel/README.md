@@ -14,3 +14,5 @@ Merge feature branch with master for seamless deployment 🚀
 
 Experiment with new data visualization techniques 📊
 
+Automate testing procedures for increased efficiency 🤖
+
