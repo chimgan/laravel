@@ -18,3 +18,5 @@ Automate testing procedures for increased efficiency 🤖
 
 Apply clustering algorithm to group similar data points 🧩
 
+Implement reinforcement learning for adaptive behavior 🔄
+
