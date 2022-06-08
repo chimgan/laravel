@@ -16,3 +16,5 @@ Experiment with new data visualization techniques 📊
 
 Automate testing procedures for increased efficiency 🤖
 
+Apply clustering algorithm to group similar data points 🧩
+
