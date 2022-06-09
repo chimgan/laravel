@@ -32,3 +32,5 @@ Analyze user feedback to improve model accuracy 📉
 
 Document code base for easier collaboration 📝
 
+Implement collaborative filtering for personalized recommendations 💡
+
