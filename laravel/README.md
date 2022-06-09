@@ -26,3 +26,5 @@ Update dependencies to latest versions for security patch 🛠️
 
 Design interactive dashboard for data exploration 🛡️
 
+Optimize memory usage for better performance 🧐
+
