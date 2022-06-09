@@ -30,3 +30,5 @@ Optimize memory usage for better performance 🧐
 
 Analyze user feedback to improve model accuracy 📉
 
+Document code base for easier collaboration 📝
+
