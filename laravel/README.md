@@ -46,3 +46,5 @@ Optimize API endpoints for faster response time ⏳
 
 Integrate computer vision for visual recognition 📷
 
+Implement version control using Git for project management 📅
+
