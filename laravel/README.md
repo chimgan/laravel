@@ -58,3 +58,5 @@ Develop custom loss function for specific problem domain 🎯
 
 Enhance data preprocessing pipeline for cleaner input 🧹
 
+Deploy model to cloud server for scalable infrastructure ☁️
+
