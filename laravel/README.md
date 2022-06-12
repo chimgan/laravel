@@ -62,3 +62,5 @@ Deploy model to cloud server for scalable infrastructure ☁️
 
 Annotate dataset for supervised learning tasks 📚
 
+Optimize gradient descent for faster convergence 📉
+
