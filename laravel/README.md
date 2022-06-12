@@ -60,3 +60,5 @@ Enhance data preprocessing pipeline for cleaner input 🧹
 
 Deploy model to cloud server for scalable infrastructure ☁️
 
+Annotate dataset for supervised learning tasks 📚
+
