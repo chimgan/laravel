@@ -54,3 +54,5 @@ Apply transfer learning to leverage pre-trained model 🤝
 
 Explore quantum computing for cutting-edge solutions ⚛️
 
+Develop custom loss function for specific problem domain 🎯
+
