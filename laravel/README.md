@@ -78,3 +78,5 @@ Experiment with generative adversarial networks for data creation 🖌️
 
 Implement graph convolutional neural networks for graph data 🌐
 
+Optimize model architecture for memory efficiency 💾
+
