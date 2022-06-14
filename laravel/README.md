@@ -74,3 +74,5 @@ Implement attention mechanism for improved sequence modeling ⚡
 
 Integrate deep reinforcement learning for game AI 🎮
 
+Experiment with generative adversarial networks for data creation 🖌️
+
