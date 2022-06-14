@@ -80,3 +80,5 @@ Implement graph convolutional neural networks for graph data 🌐
 
 Optimize model architecture for memory efficiency 💾
 
+Augment training data with synthetic samples for diversity 📊
+
