@@ -92,3 +92,5 @@ Apply dimensionality reduction for visualizing high-dimensional data 🌌
 
 Investigate anomaly detection algorithms for outlier detection 🕵️
 
+Integrate multi-task learning for shared feature representation 🤝
+
