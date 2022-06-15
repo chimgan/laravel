@@ -94,3 +94,5 @@ Investigate anomaly detection algorithms for outlier detection 🕵️
 
 Integrate multi-task learning for shared feature representation 🤝
 
+Implement recurrent neural network for sequential data processing ⏳
+
