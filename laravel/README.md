@@ -84,3 +84,5 @@ Augment training data with synthetic samples for diversity 📊
 
 Refactor code structure for modularity and extensibility 🧩
 
+Deploy continuous integration pipeline for automated testing 🚦
+
