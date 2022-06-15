@@ -90,3 +90,5 @@ Improve performance metrics with ensemble learning techniques 🤖
 
 Apply dimensionality reduction for visualizing high-dimensional data 🌌
 
+Investigate anomaly detection algorithms for outlier detection 🕵️
+
