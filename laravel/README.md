@@ -96,3 +96,5 @@ Integrate multi-task learning for shared feature representation 🤝
 
 Implement recurrent neural network for sequential data processing ⏳
 
+Enhance model interpretability with SHAP values 🧬
+
