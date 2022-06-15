@@ -88,3 +88,5 @@ Deploy continuous integration pipeline for automated testing 🚦
 
 Improve performance metrics with ensemble learning techniques 🤖
 
+Apply dimensionality reduction for visualizing high-dimensional data 🌌
+
