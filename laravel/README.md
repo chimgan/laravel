@@ -106,3 +106,5 @@ Experiment with adversarial attacks for robustness testing 🛡️
 
 Refine model architecture with attention mechanism 🧠
 
+Deploy model as REST API for real-time predictions ⏱️
+
