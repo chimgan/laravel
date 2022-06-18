@@ -110,3 +110,5 @@ Deploy model as REST API for real-time predictions ⏱️
 
 Analyze model biases and mitigate fairness issues 🤝
 
+Optimize prediction intervals for uncertainty estimation 🎯
+
