@@ -104,3 +104,5 @@ Implement adaptive learning rate for model convergence 🎢
 
 Experiment with adversarial attacks for robustness testing 🛡️
 
+Refine model architecture with attention mechanism 🧠
+
