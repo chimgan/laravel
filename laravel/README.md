@@ -118,3 +118,5 @@ Automate dataset augmentation for data diversity 🔄
 
 Integrate explainability tools for model transparency 🏗️
 
+Implement self-supervised learning for unsupervised tasks 🕵️
+
