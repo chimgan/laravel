@@ -126,3 +126,5 @@ Optimize gradient computation for faster training 🚄
 
 Investigate model distillation for knowledge transfer 📚
 
+Implement personalized recommendation system with collaborative filtering 💼
+
