@@ -122,3 +122,5 @@ Implement self-supervised learning for unsupervised tasks 🕵️
 
 Enhance data augmentation techniques for robustness 🌟
 
+Optimize gradient computation for faster training 🚄
+
