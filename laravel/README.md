@@ -128,3 +128,5 @@ Investigate model distillation for knowledge transfer 📚
 
 Implement personalized recommendation system with collaborative filtering 💼
 
+Deploy containerized model for reproducibility 📦
+
