@@ -144,3 +144,5 @@ Enhance model generalization with regularization techniques 🌐
 
 Automate feature selection process for optimal inputs 🧪
 
+Implement time series forecasting using LSTM networks ⏳
+
