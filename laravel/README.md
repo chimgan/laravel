@@ -150,3 +150,5 @@ Debug and fix memory leak issue for stable performance 🧹
 
 Optimize resource utilization with model pruning techniques 🌿
 
+Analyze model interpretability with SHAP values 🧬
+
