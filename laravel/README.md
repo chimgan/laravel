@@ -140,3 +140,5 @@ Refactor neural network architecture for efficiency 🧠
 
 Experiment with meta-learning algorithms for few-shot tasks 📚
 
+Enhance model generalization with regularization techniques 🌐
+
