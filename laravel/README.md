@@ -156,3 +156,5 @@ Integrate explainability tools for transparent decision-making 🛡️
 
 Refactor codebase for improved scalability and maintainability 🚀
 
+Deploy model as microservices for modular functionality ⚙️
+
