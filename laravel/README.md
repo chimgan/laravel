@@ -168,3 +168,5 @@ Apply transfer learning to leverage pre-trained models 🤝
 
 Optimize hyperparameters for optimal model performance 🎛️
 
+Integrate computer vision for image recognition capabilities 📷
+
