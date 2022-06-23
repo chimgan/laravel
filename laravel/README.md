@@ -170,3 +170,5 @@ Optimize hyperparameters for optimal model performance 🎛️
 
 Integrate computer vision for image recognition capabilities 📷
 
+Implement version control using Git for project collaboration 📅
+
