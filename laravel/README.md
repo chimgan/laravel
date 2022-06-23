@@ -164,3 +164,5 @@ Enhance data preprocessing pipeline for cleaner inputs 🧹
 
 Automate dataset labeling process for efficiency gains 🏷️
 
+Apply transfer learning to leverage pre-trained models 🤝
+
