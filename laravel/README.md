@@ -180,3 +180,5 @@ Optimized algorithms for faster computing ⚡
 
 Added feature to predict user preferences based on AI model 🤖
 
+Refactored code structure for better readability 📚
+
