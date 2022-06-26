@@ -192,3 +192,5 @@ Fixed bug causing unexpected behavior in AI logic 🐛
 
 Enhanced facial recognition accuracy with image processing techniques 👁️
 
+Designed user-friendly interface for AI interaction 💻
+
