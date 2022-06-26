@@ -194,3 +194,5 @@ Enhanced facial recognition accuracy with image processing techniques 👁️
 
 Designed user-friendly interface for AI interaction 💻
 
+Streamlined data preprocessing pipeline for efficiency 🛠️
+
