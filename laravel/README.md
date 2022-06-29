@@ -220,3 +220,5 @@ Refactored codebase for modularity and scalability 🛡️
 
 Deployed AI chatbot for customer support services 💬
 
+Added parallel processing support for faster computations ⏩
+
