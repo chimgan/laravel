@@ -234,3 +234,5 @@ Incorporated transfer learning to leverage pre-trained models 🔄
 
 Updated documentation for better code maintainability 📝
 
+Implemented AI-based anomaly detection for cybersecurity 🛡️
+
