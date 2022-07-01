@@ -242,3 +242,5 @@ Improved neural network architecture for faster convergence 🏗️
 
 Integrated explainable AI features for transparency 🕵️
 
+Deployed AI-powered recommendation system for eCommerce 🛍️
+
