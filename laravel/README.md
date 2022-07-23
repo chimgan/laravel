@@ -404,3 +404,5 @@ Resolved merge conflict like a pro 🤝
 
 Updated documentation for future reference 📚
 
+Fixed typo in comments 🖋️
+
