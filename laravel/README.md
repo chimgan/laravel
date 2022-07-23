@@ -402,3 +402,5 @@ Refactored code for better readability 📋
 
 Resolved merge conflict like a pro 🤝
 
+Updated documentation for future reference 📚
+
