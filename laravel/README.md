@@ -410,3 +410,5 @@ Enhanced user experience through design improvements 🎨
 
 Experimenting with quantum computing 🌌
 
+Tested application on different platforms 📱💻
+
