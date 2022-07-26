@@ -414,3 +414,5 @@ Tested application on different platforms 📱💻
 
 Merged feature branch into master 🚀
 
+Automated deployment process 🚚
+
