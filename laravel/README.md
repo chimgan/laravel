@@ -438,3 +438,5 @@ Collaborated with team members on feature development 👥
 
 Added support for multi-language translations 🌐
 
+Reorganized project folders for better organization 📂
+
