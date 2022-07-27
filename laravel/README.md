@@ -440,3 +440,5 @@ Added support for multi-language translations 🌐
 
 Reorganized project folders for better organization 📂
 
+Implemented version control using Git 🔄
+
