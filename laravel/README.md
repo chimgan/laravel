@@ -434,3 +434,5 @@ Debugged complex algorithm 🐞
 
 Fine-tuned hyperparameters for better performance ⚙️
 
+Collaborated with team members on feature development 👥
+
