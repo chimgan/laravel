@@ -436,3 +436,5 @@ Fine-tuned hyperparameters for better performance ⚙️
 
 Collaborated with team members on feature development 👥
 
+Added support for multi-language translations 🌐
+
