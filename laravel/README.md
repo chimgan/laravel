@@ -446,3 +446,5 @@ Fixed CSS styling issues for consistency 🎨
 
 Enhanced security measures to prevent cyber attacks 🔐
 
+Deployed application on cloud servers ☁️
+
