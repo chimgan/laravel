@@ -448,3 +448,5 @@ Enhanced security measures to prevent cyber attacks 🔐
 
 Deployed application on cloud servers ☁️
 
+Updated libraries to latest versions 📦
+
