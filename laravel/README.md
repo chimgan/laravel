@@ -450,3 +450,5 @@ Deployed application on cloud servers ☁️
 
 Updated libraries to latest versions 📦
 
+Optimized frontend loading speed 🚀
+
