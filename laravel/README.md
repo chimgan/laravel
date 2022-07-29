@@ -456,3 +456,5 @@ Implemented dark mode for user customization 🌙
 
 Refactored code to follow best practices 👩‍💻
 
+Designed interactive data visualization tools 📊
+
