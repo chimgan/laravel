@@ -458,3 +458,5 @@ Refactored code to follow best practices 👩‍💻
 
 Designed interactive data visualization tools 📊
 
+Fixed memory leak in application 🧹
+
