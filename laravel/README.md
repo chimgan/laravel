@@ -460,3 +460,5 @@ Designed interactive data visualization tools 📊
 
 Fixed memory leak in application 🧹
 
+Configured CI/CD pipelines for automated testing 🛠️
+
