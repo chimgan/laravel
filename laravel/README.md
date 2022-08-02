@@ -486,3 +486,5 @@ Integrated analytics dashboard for data insights 📊
 
 Deployed serverless architecture using AWS Lambda 🚀
 
+Enhanced user authentication with OAuth 2.0 🔒
+
