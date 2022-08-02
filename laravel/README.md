@@ -484,3 +484,5 @@ Fixed responsive design for mobile devices 📱
 
 Integrated analytics dashboard for data insights 📊
 
+Deployed serverless architecture using AWS Lambda 🚀
+
