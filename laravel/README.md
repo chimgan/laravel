@@ -488,3 +488,5 @@ Deployed serverless architecture using AWS Lambda 🚀
 
 Enhanced user authentication with OAuth 2.0 🔒
 
+Implemented webhooks for real-time updates 🌐🔄
+
