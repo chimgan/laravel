@@ -514,3 +514,5 @@ Integrated SMS notifications for user alerts 📲🔔
 
 Deployed microservices architecture for scalability 🏗️
 
+Enhanced user permissions with role-based access control 🔒🔑
+
