@@ -502,3 +502,5 @@ Implemented continuous monitoring for system health 📊⚠️
 
 Enhanced API documentation for better understanding 📖
 
+Added support for GraphQL subscriptions 🔄🔗
+
