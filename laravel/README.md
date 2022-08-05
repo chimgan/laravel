@@ -516,3 +516,5 @@ Deployed microservices architecture for scalability 🏗️
 
 Enhanced user permissions with role-based access control 🔒🔑
 
+Implemented server-side caching for performance ⚡
+
