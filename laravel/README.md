@@ -512,3 +512,5 @@ Improved SEO by optimizing metadata 📈🔍
 
 Integrated SMS notifications for user alerts 📲🔔
 
+Deployed microservices architecture for scalability 🏗️
+
