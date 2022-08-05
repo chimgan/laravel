@@ -504,3 +504,5 @@ Enhanced API documentation for better understanding 📖
 
 Added support for GraphQL subscriptions 🔄🔗
 
+Optimized image compression for faster loading 🖼️
+
