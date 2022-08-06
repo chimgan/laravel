@@ -522,3 +522,5 @@ Fixed memory allocation issues in code 🧠🚫🔍
 
 Optimized Docker containers for resource efficiency 🐳
 
+Refactored API endpoints for RESTful conventions 🔄
+
