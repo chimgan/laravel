@@ -598,3 +598,5 @@ Upgraded image recognition accuracy using deep learning 📸
 
 Refactored code for improved readability 🧹
 
+Fine-tuned hyperparameters for better performance 🎛️
+
