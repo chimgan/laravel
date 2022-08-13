@@ -602,3 +602,5 @@ Fine-tuned hyperparameters for better performance 🎛️
 
 Enabled real-time streaming data analytics 📈
 
+Deployed AI model on cloud servers ☁️
+
