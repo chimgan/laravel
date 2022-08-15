@@ -622,3 +622,5 @@ Developed a chatbot with conversational AI abilities 💬
 
 Added support for multi-language translations 🌐
 
+Applied transfer learning for faster training 🚀
+
