@@ -610,3 +610,5 @@ Automated testing procedures for reliability 🧪
 
 Implemented reinforcement learning algorithms 🎮
 
+Introduced anomaly detection mechanisms 🚨
+
