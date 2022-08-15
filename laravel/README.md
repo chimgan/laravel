@@ -606,3 +606,5 @@ Deployed AI model on cloud servers ☁️
 
 Streamlined data preprocessing steps 📋
 
+Automated testing procedures for reliability 🧪
+
