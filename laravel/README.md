@@ -620,3 +620,5 @@ Optimized memory management for efficiency 🧠
 
 Developed a chatbot with conversational AI abilities 💬
 
+Added support for multi-language translations 🌐
+
