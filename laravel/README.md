@@ -624,3 +624,5 @@ Added support for multi-language translations 🌐
 
 Applied transfer learning for faster training 🚀
 
+Enabled model saving and loading functionality 💾
+
