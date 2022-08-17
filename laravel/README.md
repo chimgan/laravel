@@ -634,3 +634,5 @@ Introduced automated feature engineering techniques 🛠️
 
 Optimized batch processing for large-scale data 📦
 
+Deployed a recommendation system using collaborative filtering 🔍
+
