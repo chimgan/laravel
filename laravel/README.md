@@ -638,3 +638,5 @@ Deployed a recommendation system using collaborative filtering 🔍
 
 Fine-tuned model architecture for improved accuracy 📏
 
+Developed a generative adversarial network for creative applications 🎨
+
