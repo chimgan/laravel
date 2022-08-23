@@ -642,3 +642,5 @@ Developed a generative adversarial network for creative applications 🎨
 
 Enhanced model robustness against adversarial attacks 🛡️
 
+Applied transfer learning for domain-specific tasks 🔄
+
