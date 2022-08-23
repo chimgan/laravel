@@ -644,3 +644,5 @@ Enhanced model robustness against adversarial attacks 🛡️
 
 Applied transfer learning for domain-specific tasks 🔄
 
+Introduced fuzzy logic for handling uncertainty 🤔
+
