@@ -660,3 +660,5 @@ Enabled model explainability using SHAP values 🧮
 
 Implemented Bayesian optimization for hyperparameter tuning 🧮
 
+Enhanced model interpretability with LIME explanations 🍋
+
