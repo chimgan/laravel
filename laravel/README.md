@@ -658,3 +658,5 @@ Introduced ensemble learning techniques for better predictions 🎭
 
 Enabled model explainability using SHAP values 🧮
 
+Implemented Bayesian optimization for hyperparameter tuning 🧮
+
