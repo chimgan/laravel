@@ -654,3 +654,5 @@ Automated model evaluation metrics calculation 📏
 
 Refactored code for better modularity ♻️
 
+Introduced ensemble learning techniques for better predictions 🎭
+
