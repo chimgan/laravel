@@ -678,3 +678,5 @@ Enabled distributed training of neural networks 🚀
 
 Introduced attention mechanisms for sequence processing 👀
 
+Optimized model inference speed using ONNX format 🏎️
+
