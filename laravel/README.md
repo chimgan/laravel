@@ -682,3 +682,5 @@ Optimized model inference speed using ONNX format 🏎️
 
 Developed explainable AI framework for regulatory compliance 📜
 
+Refactored data pipeline for scalability 🚰
+
