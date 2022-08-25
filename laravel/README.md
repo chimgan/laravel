@@ -670,3 +670,5 @@ Introduced quantization techniques for model compression ⚖️
 
 Deployed model as a REST API for real-time predictions 🌐
 
+Fine-tuned model for improved generalization 🔄
+
