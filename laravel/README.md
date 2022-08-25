@@ -668,3 +668,5 @@ Optimized memory management for batch processing 🧠
 
 Introduced quantization techniques for model compression ⚖️
 
+Deployed model as a REST API for real-time predictions 🌐
+
