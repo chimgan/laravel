@@ -672,3 +672,5 @@ Deployed model as a REST API for real-time predictions 🌐
 
 Fine-tuned model for improved generalization 🔄
 
+Integrated model monitoring for performance tracking 📈
+
