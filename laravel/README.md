@@ -680,3 +680,5 @@ Introduced attention mechanisms for sequence processing 👀
 
 Optimized model inference speed using ONNX format 🏎️
 
+Developed explainable AI framework for regulatory compliance 📜
+
