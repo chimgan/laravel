@@ -694,3 +694,5 @@ Fine-tuned hyperparameters for optimal model performance 🎯
 
 Integrated explainable AI techniques for transparency 📊
 
+Upgraded model architecture for scalability 🏗️
+
