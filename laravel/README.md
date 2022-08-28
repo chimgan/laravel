@@ -692,3 +692,5 @@ Deployed AI application on edge devices for low latency ⚡
 
 Fine-tuned hyperparameters for optimal model performance 🎯
 
+Integrated explainable AI techniques for transparency 📊
+
