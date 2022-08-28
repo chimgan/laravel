@@ -698,3 +698,5 @@ Upgraded model architecture for scalability 🏗️
 
 Automated data cleaning processes for efficiency 🧹
 
+Implemented model serving infrastructure for predictions 📦
+
