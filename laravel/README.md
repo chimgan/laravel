@@ -706,3 +706,5 @@ Enhanced training data diversity for better generalization 🧠
 
 Optimized inference time using quantization techniques ⏱️
 
+Developed a meta-learning framework for adaptive models 🔄
+
