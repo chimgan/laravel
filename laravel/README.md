@@ -712,3 +712,5 @@ Enabled model explainability using SHAP and LIME 🍋🧮
 
 Integrated reinforcement learning for proactive decision-making 🤖
 
+Applied unsupervised learning for anomaly detection 🚨
+
