@@ -704,3 +704,5 @@ Introduced adversarial training for model robustness 🥊
 
 Enhanced training data diversity for better generalization 🧠
 
+Optimized inference time using quantization techniques ⏱️
+
