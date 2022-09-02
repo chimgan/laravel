@@ -730,3 +730,5 @@ Refactored codebase for improved maintainability 🛠️
 
 Enabled model explainability using SHAP values 🧮
 
+Upgraded model performance using ensemble learning techniques 🎭
+
