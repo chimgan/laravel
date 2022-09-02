@@ -738,3 +738,5 @@ Integrated adversarial training for model security 🛡️
 
 Optimized data pipelines for scalability and efficiency 🔄
 
+Developed a custom loss function for specific task optimization 🧠
+
