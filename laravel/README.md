@@ -728,3 +728,5 @@ Fine-tuned hyperparameters for model robustness 🧬
 
 Refactored codebase for improved maintainability 🛠️
 
+Enabled model explainability using SHAP values 🧮
+
