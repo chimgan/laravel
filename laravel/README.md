@@ -726,3 +726,5 @@ Deployed AI model on edge devices for edge computing 🌐
 
 Fine-tuned hyperparameters for model robustness 🧬
 
+Refactored codebase for improved maintainability 🛠️
+
