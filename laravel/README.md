@@ -752,3 +752,5 @@ Implemented transfer learning for faster model training 🚀
 
 Refactored codebase for better readability and organization 📦
 
+Introduced adversarial training for model robustness 🤼
+
