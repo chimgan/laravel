@@ -750,3 +750,5 @@ Applied pre-trained embeddings for improved model performance 🛠️
 
 Implemented transfer learning for faster model training 🚀
 
+Refactored codebase for better readability and organization 📦
+
