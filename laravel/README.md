@@ -756,3 +756,5 @@ Introduced adversarial training for model robustness 🤼
 
 Optimized data preprocessing for faster training ⚡
 
+Deployed model as a microservice for scalable predictions 🚀
+
