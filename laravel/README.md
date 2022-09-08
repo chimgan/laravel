@@ -774,3 +774,5 @@ Enhanced model interpretability with advanced visualization 📊
 
 Implemented reinforcement learning for adaptive decision-making 🔄
 
+Introduced unsupervised learning for anomaly detection 🕵️
+
