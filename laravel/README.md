@@ -792,3 +792,5 @@ Applied pre-trained embeddings for efficient knowledge transfer 📦
 
 Implemented transfer learning for faster training on new tasks 🚀
 
+Deployed model as an API service for scalable predictions 🌐
+
