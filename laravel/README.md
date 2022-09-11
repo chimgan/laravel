@@ -796,3 +796,5 @@ Deployed model as an API service for scalable predictions 🌐
 
 Introduced ensemble learning techniques for improved model performance 🎭
 
+Implemented neural network for sentiment analysis 🧠
+
