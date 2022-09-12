@@ -816,3 +816,5 @@ Fixed bug causing unexpected behavior 🐞
 
 Integrated new data sources for comprehensive analysis 📊
 
+Reorganized project structure for clarity 📂
+
