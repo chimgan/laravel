@@ -828,3 +828,5 @@ Cleaned up unused code for better maintainability 🧹
 
 Added new command-line interface options 🛠️
 
+Optimized memory usage for efficiency 🧠
+
