@@ -826,3 +826,5 @@ Implemented parallel processing for faster computation ⏩
 
 Cleaned up unused code for better maintainability 🧹
 
+Added new command-line interface options 🛠️
+
