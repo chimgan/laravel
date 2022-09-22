@@ -908,3 +908,5 @@ Improved accessibility features for inclusivity ♿
 
 Deployed machine learning model for predictions 🚀🤖
 
+Fixed responsiveness issue on mobile devices 📱
+
