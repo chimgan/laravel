@@ -1014,3 +1014,5 @@ Streamlined data labeling processes 🏷️
 
 Implemented unsupervised learning techniques 🔍
 
+Optimized model hyperparameters 🧮
+
