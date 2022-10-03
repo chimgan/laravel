@@ -1020,3 +1020,5 @@ Enhanced transfer learning mechanisms 🔄
 
 Fine-tuned deep convolutional networks 🎨
 
+Automated outlier detection algorithms 🕵️
+
