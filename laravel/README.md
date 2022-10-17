@@ -1110,3 +1110,5 @@ Integrated explainable AI for transparent decision-making 🕵️
 
 Optimized regularization techniques for improved model generalization 📘
 
+Developed automated model evaluation metrics 📊
+
