@@ -1140,3 +1140,5 @@ Resolved compatibility issues with external libraries 🛠️
 
 Improved data normalization techniques for consistent model performance 📊
 
+Integrated gradient clipping to prevent exploding gradients 🌪️
+
