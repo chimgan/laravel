@@ -1150,3 +1150,5 @@ Enhanced model explainability through attention mechanisms 🧠
 
 Automated feature selection for improved model efficiency 🛠️
 
+Optimized model hyperparameters using Bayesian optimization 🧮
+
