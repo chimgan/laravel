@@ -1152,3 +1152,5 @@ Automated feature selection for improved model efficiency 🛠️
 
 Optimized model hyperparameters using Bayesian optimization 🧮
 
+Developed meta-learning strategies for rapid model adaptation 📚
+
