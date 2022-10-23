@@ -1162,3 +1162,5 @@ Optimized model training convergence rates with early stopping 🛑
 
 Improved interpretability of neural net decisions through visualizations 📊
 
+Integrated self-attention mechanisms for long-range dependencies 🤖
+
