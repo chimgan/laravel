@@ -1166,3 +1166,5 @@ Integrated self-attention mechanisms for long-range dependencies 🤖
 
 Refined generative adversarial network architectures for image synthesis 🎨
 
+Resolved issues with data imbalance through sampling strategies ⚖️
+
