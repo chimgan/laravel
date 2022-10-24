@@ -1174,3 +1174,5 @@ Automated model tuning with hyperparameter optimization techniques 🔄
 
 Boosted model performance through semi-supervised learning strategies 🚀
 
+Integrated self-supervised learning techniques for unsupervised feature extraction 🧩
+
