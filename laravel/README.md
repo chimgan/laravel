@@ -1224,3 +1224,5 @@ Implemented responsive design for cross-device compatibility 📱💻
 
 Refactored code for better maintainability 🛠️
 
+Enhanced error messages for clearer feedback ℹ️
+
