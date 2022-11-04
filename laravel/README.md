@@ -1264,3 +1264,5 @@ Refactored JavaScript code for improved performance 🛠️💻
 
 Resolved navigation bugs for smoother user experience 🚶‍♂️
 
+Added custom animations for engaging visual effects 🎬
+
