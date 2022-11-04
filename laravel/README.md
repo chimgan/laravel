@@ -1250,3 +1250,5 @@ Refactored CSS for better styling consistency 🎨
 
 Resolved frontend issues for seamless user interaction 🖱️
 
+Added support for new browsers to enhance accessibility 🌐🔍
+
