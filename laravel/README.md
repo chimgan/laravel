@@ -1276,3 +1276,5 @@ Optimized SQL queries for efficient database operations ⚙️📊
 
 Implemented accessibility features for inclusive design 👀
 
+Added error logging for easier debugging 🪵🪚
+
