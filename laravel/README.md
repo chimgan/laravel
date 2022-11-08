@@ -1304,3 +1304,5 @@ Implemented tooltips for intuitive user guidance ℹ️
 
 Optimized network requests for faster data retrieval 📶
 
+Added dark mode support for personalized experience 🌗
+
