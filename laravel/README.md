@@ -1320,3 +1320,5 @@ Updated README with detailed instructions ℹ️
 
 Merged pull requests with gratitude and excitement 🙌
 
+Fixed mobile responsiveness for better user experience 📱
+
