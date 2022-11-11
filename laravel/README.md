@@ -1334,3 +1334,5 @@ Refactored API endpoints for clearer structure 🔄🔗
 
 Resolved CORS issues for seamless API communication 🌐🔒
 
+Enhanced SEO metadata for improved search visibility 🔍🏷️
+
