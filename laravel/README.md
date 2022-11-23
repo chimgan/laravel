@@ -1396,3 +1396,5 @@ Implemented bulk actions for faster data processing 🔄⚡
 
 🛠️ Fixing bugs and optimizing AI workflow
 
+📚 Updating documentation for better understanding of AI functionalities
+
