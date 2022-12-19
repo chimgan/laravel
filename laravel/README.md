@@ -1566,3 +1566,5 @@ Updated dependencies to latest versions ⬆️
 
 Designed intuitive user interfaces 🎨
 
+Documented project architecture for future reference 📝
+
