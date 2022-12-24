@@ -1602,3 +1602,5 @@ Dockerized application for easy deployment 🐳
 
 Fixed security vulnerabilities reported by automated scans 🛠️
 
+Implemented dark mode option for users 🌙
+
