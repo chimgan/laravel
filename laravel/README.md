@@ -1596,3 +1596,5 @@ Refactored code to adhere to coding standards 📜
 
 Integrated feedback from stakeholders for feature enhancements 📣
 
+Optimized frontend assets for quicker loading 🖥️
+
