@@ -1604,3 +1604,5 @@ Fixed security vulnerabilities reported by automated scans 🛠️
 
 Implemented dark mode option for users 🌙
 
+Added unit tests for critical modules 🧪
+
