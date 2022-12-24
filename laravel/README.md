@@ -1598,3 +1598,5 @@ Integrated feedback from stakeholders for feature enhancements 📣
 
 Optimized frontend assets for quicker loading 🖥️
 
+Dockerized application for easy deployment 🐳
+
