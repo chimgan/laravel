@@ -1600,3 +1600,5 @@ Optimized frontend assets for quicker loading 🖥️
 
 Dockerized application for easy deployment 🐳
 
+Fixed security vulnerabilities reported by automated scans 🛠️
+
