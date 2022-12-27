@@ -1622,3 +1622,5 @@ Updated documentation with latest changes 📄
 
 Improved website accessibility for all users ♿
 
+Refactored CSS styles for cleaner code 💅
+
