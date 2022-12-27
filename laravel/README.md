@@ -1626,3 +1626,5 @@ Refactored CSS styles for cleaner code 💅
 
 Implemented automated deployment pipelines 🚚
 
+Fixed broken links on the website 🔗
+
