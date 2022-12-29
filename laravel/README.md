@@ -1648,3 +1648,5 @@ Implemented image lazy loading for faster page loads 🖼️
 
 Optimized API endpoints for quicker data retrieval 🚀
 
+Added security headers to protect against attacks 🛡️
+
