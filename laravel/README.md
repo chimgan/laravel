@@ -1642,3 +1642,5 @@ Implemented websocket connections for real-time updates 🌐
 
 Fixed browser compatibility issues on different platforms 💻
 
+Improved error messages for better user guidance ℹ️
+
