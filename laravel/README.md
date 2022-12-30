@@ -1658,3 +1658,5 @@ Fixed edge cases in data processing algorithms ⚔️
 
 Implemented feature flags for controlled feature releases 🚩
 
+Added tooltips for user assistance ℹ️
+
