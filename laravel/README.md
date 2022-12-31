@@ -1676,3 +1676,5 @@ Optimized database indexes for faster query execution ⚡
 
 Added support for web push notifications 🚀
 
+Fixed styling issues on different browsers 🦊
+
