@@ -1682,3 +1682,5 @@ Enhanced security protocols to prevent unauthorized access 🔐
 
 Implemented auto-scaling for handling varying loads 🌐
 
+Updated privacy policy to comply with regulations 📜
+
