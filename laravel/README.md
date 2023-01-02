@@ -1686,3 +1686,5 @@ Updated privacy policy to comply with regulations 📜
 
 Fixed layout issues on mobile devices 📱
 
+Added custom error pages for better user experience 🚧
+
