@@ -1696,3 +1696,5 @@ Fixed CORS issues for secure cross-origin requests 🛡️
 
 Improved documentation structure for easier navigation 🚀
 
+Added fallback options for offline access 📶
+
