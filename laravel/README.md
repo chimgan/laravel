@@ -1956,3 +1956,5 @@ Fixed memory leakage issues to improve overall stability 💡
 
 Introduced dynamic model selection based on input data characteristics 🎯
 
+Improved error handling to provide more informative feedback ❗
+
