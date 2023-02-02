@@ -1972,3 +1972,5 @@ Improved model performance on edge devices for IoT applications 🌐
 
 Upgraded model training process with distributed computing techniques 🌐
 
+Refactored codebase to adhere to best practices and design patterns 📘
+
