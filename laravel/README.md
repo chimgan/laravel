@@ -1968,3 +1968,5 @@ Implemented efficient caching mechanism for faster data retrieval 🗄️
 
 Optimized model inference speed for real-time applications ⏱️
 
+Improved model performance on edge devices for IoT applications 🌐
+
