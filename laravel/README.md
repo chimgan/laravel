@@ -1984,3 +1984,5 @@ Improved model interpretability with SHAP and LIME explanations 📊
 
 Introduced automated hyperparameter tuning for improved model performance 🎯
 
+Implemented time series forecasting model with LSTM architecture 📈
+
