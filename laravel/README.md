@@ -1998,3 +1998,5 @@ Upgraded model deployment process with Docker containers 🐳
 
 Refactored data loading pipeline for faster data ingestion 🚀
 
+Improved model accuracy with class imbalance handling techniques ⚖️
+
