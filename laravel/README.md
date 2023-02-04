@@ -2000,3 +2000,5 @@ Refactored data loading pipeline for faster data ingestion 🚀
 
 Improved model accuracy with class imbalance handling techniques ⚖️
 
+Introduced anomaly detection module for identifying outliers 🚨
+
