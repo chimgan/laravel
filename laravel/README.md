@@ -2028,3 +2028,5 @@ Optimized model serialization process for faster model saving and loading 📦
 
 Improved model explainability through feature importance rankings 🌟
 
+Developed distributed training setup for training models on multiple GPUs 🚀
+
