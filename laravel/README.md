@@ -2032,3 +2032,5 @@ Developed distributed training setup for training models on multiple GPUs 🚀
 
 Refactored model evaluation metrics for comprehensive performance analysis 📊
 
+Enhanced model fairness through bias mitigation techniques 📉
+
