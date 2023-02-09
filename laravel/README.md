@@ -2056,3 +2056,5 @@ Enhanced model fairness through bias detection and mitigation strategies 📉
 
 Upgraded model deployment pipeline with continuous integration and deployment practices 🛠️
 
+Implemented active learning strategies for efficient data labeling and model improvement 🧾
+
