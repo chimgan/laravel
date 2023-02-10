@@ -2068,3 +2068,5 @@ Integrated context-aware recommendation system for personalized user experiences
 
 Optimized feature engineering pipeline for improved model performance and generalization 📈
 
+Improved model explainability with SHAP, LIME, and attention mechanisms 🎯
+
