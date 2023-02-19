@@ -2128,3 +2128,5 @@ Added feature for exporting data in multiple formats 📤
 
 Refactored backend architecture for scalability 🏗️
 
+Fixed compatibility issue with older browsers 🕸️
+
