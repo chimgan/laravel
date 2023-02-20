@@ -2146,3 +2146,5 @@ Fixed memory leak in concurrent processing 🧊
 
 Deployed feature for offline mode functionality 📶
 
+Enhanced error logging for easier troubleshooting 🪵
+
