@@ -2156,3 +2156,5 @@ Added support for mobile responsiveness 📱
 
 Refactored codebase to reduce technical debt 💸
 
+Fixed cross-browser compatibility issue 🔄
+
