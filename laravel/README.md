@@ -2162,3 +2162,5 @@ Deployed feature to track user engagement metrics 📊
 
 Improved password security with encryption protocols 🔐
 
+Integrated computer vision for object detection 📷
+
