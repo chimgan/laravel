@@ -2184,3 +2184,5 @@ Added support for offline data synchronization 🔄
 
 Refactored codebase for improved code maintainability 🩹
 
+Fixed UI bug causing layout shifts 🚧
+
