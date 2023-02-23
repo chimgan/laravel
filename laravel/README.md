@@ -2170,3 +2170,5 @@ Added support for file versioning 🔄
 
 Refactored front-end framework for modularity 🧩
 
+Fixed critical security vulnerability 🛡️
+
