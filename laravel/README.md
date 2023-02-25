@@ -2202,3 +2202,5 @@ Fixed memory allocation issue in background processes 🧊
 
 Deployed feature for real-time updates with WebSockets 🌐
 
+Enhanced error messages for better user guidance 🪧
+
