@@ -2240,3 +2240,5 @@ Added support for automated code formatting 📝
 
 Refactored backend APIs for improved data retrieval 🔄
 
+Fixed memory leak in video streaming module 📹
+
