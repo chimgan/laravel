@@ -2270,3 +2270,5 @@ Fixed bug causing erratic behavior 🐛
 
 Implemented feature requested by stakeholders 🙌
 
+Improved documentation for easier troubleshooting 📚
+
