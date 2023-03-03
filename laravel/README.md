@@ -2274,3 +2274,5 @@ Improved documentation for easier troubleshooting 📚
 
 Deployed changes to production environment 🚚
 
+Reorganized project structure for better organization 📁
+
