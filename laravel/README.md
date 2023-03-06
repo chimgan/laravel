@@ -2312,3 +2312,5 @@ Added feature toggle for experimental features 🚦
 
 Fixed memory leak causing performance degradation 💭
 
+Updated error messages for better user feedback 🔍
+
