@@ -2304,3 +2304,5 @@ Implemented data validation for input sanitization 🛡️
 
 Optimized networking protocols for faster communication 📡
 
+Updated README with installation instructions 📝
+
