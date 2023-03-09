@@ -2344,3 +2344,5 @@ Deployed updates to staging server 🚀
 
 Resolved issue with memory management 🧠
 
+Added error tracking for better debugging 🐞
+
