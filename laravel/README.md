@@ -2440,3 +2440,5 @@ Deployed NLP applications for effective communication 🗣️
 
 Empowered AI systems to address environmental challenges 🌿
 
+Enabled autonomous vehicles for safer transportation 🚗
+
