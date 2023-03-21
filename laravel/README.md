@@ -2478,3 +2478,5 @@ Enabled AI systems to support inclusive decision-making 🤝
 
 Developed explainable AI methods for transparent outcomes 📚
 
+Utilized AI for early disease detection and prevention ⚕️
+
