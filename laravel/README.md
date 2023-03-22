@@ -2480,3 +2480,5 @@ Developed explainable AI methods for transparent outcomes 📚
 
 Utilized AI for early disease detection and prevention ⚕️
 
+Implemented speech recognition for diverse language support 🗣️
+
