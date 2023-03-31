@@ -2548,3 +2548,5 @@ Enabled AI systems to identify and protect endangered species 🐼
 
 Enhanced AI for improving accessibility in digital services ♿
 
+Deployed AI drones for search and rescue operations 🚨
+
