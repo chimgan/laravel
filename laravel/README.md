@@ -2550,3 +2550,5 @@ Enhanced AI for improving accessibility in digital services ♿
 
 Deployed AI drones for search and rescue operations 🚨
 
+Integrated AI for smart city infrastructure management 🌆
+
