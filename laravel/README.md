@@ -2552,3 +2552,5 @@ Deployed AI drones for search and rescue operations 🚨
 
 Integrated AI for smart city infrastructure management 🌆
 
+Developed AI models for predicting natural disasters 🌊
+
