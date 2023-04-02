@@ -2560,3 +2560,5 @@ Trained AI to detect and prevent cyber attacks 💻
 
 Enhanced AI for streamlining legal document processing ⚖️
 
+Utilized AI for optimizing energy consumption in buildings 🏢
+
