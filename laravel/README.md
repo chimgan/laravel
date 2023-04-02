@@ -2566,3 +2566,5 @@ Implemented AI solutions for efficient waste management 🗑️
 
 Enabled AI to assist in cultural heritage preservation 🏰
 
+Developed AI tools for personalized fitness routines 🏋️
+
