@@ -2562,3 +2562,5 @@ Enhanced AI for streamlining legal document processing ⚖️
 
 Utilized AI for optimizing energy consumption in buildings 🏢
 
+Implemented AI solutions for efficient waste management 🗑️
+
