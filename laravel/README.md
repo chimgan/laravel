@@ -2556,3 +2556,5 @@ Developed AI models for predicting natural disasters 🌊
 
 Optimized AI algorithms for space exploration missions 🚀
 
+Trained AI to detect and prevent cyber attacks 💻
+
