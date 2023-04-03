@@ -2580,3 +2580,5 @@ Integrated AI for disaster response coordination 🚑
 
 Enabled AI to assist in artistic creations 🎨
 
+Developed AI models for optimizing transportation systems 🚇
+
