@@ -2616,3 +2616,5 @@ Explore unsupervised learning techniques 🕵️
 
 Optimize feature selection for better predictions 🎲
 
+Experiment with neural network hyperparameters 🧮
+
