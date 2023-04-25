@@ -2722,3 +2722,5 @@ Enhance AI chatbot with multi-turn conversation capability 💬
 
 Refactor code for readability and performance 🚀
 
+Integrate AI for personalized news recommendation 📰
+
