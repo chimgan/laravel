@@ -2762,3 +2762,5 @@ Implement AI for real-time object detection 🕵️
 
 Explore transfer learning for faster model training 🚂
 
+Fine-tune neural network for image classification 🖼️
+
