@@ -2764,3 +2764,5 @@ Explore transfer learning for faster model training 🚂
 
 Fine-tune neural network for image classification 🖼️
 
+Build AI system for personalized travel recommendations 🌍
+
