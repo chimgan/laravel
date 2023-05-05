@@ -2794,3 +2794,5 @@ Integrated voice recognition functionality for virtual assistant 🗣️
 
 Resolved merge conflict in feature branch 🤝
 
+Fixed bug causing app crashes on specific devices 🐞
+
