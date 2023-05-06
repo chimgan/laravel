@@ -2802,3 +2802,5 @@ Optimized database queries for faster data retrieval ⚙️
 
 Added animation effects to UI components for better user experience 💫
 
+Refactored CSS styles for improved responsiveness 🎨
+
