@@ -2834,3 +2834,5 @@ Added geolocation tracking feature for location-based services 🗺️
 
 Resolved CORS policy issue for cross-origin resource sharing 🌐
 
+Updated API endpoints to support new data requirements 🔄
+
