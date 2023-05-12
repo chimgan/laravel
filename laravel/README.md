@@ -2852,3 +2852,5 @@ Refactored code for better readability and maintainability 📚
 
 Added interactive tutorial for onboarding new users 👩‍🏫
 
+Optimized database schema for efficient data storage 🗄️
+
