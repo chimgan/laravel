@@ -2850,3 +2850,5 @@ Resolved DNS resolution issue for API calls 🌐
 
 Refactored code for better readability and maintainability 📚
 
+Added interactive tutorial for onboarding new users 👩‍🏫
+
