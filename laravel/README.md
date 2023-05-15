@@ -2874,3 +2874,5 @@ Refactored network requests to minimize latency 📡
 
 Resolved issue with data synchronization between clients 🔄
 
+Implemented custom error messages for clarity and user feedback ❌
+
