@@ -2902,3 +2902,5 @@ Refactored code to reduce code duplication 🔄
 
 Improved error logging for easier troubleshooting 📝
 
+Added password strength checker for secure user authentication 🔒
+
