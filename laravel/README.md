@@ -2936,3 +2936,5 @@ Implemented user permissions system for granular access control 🔏
 
 Refactored authentication logic for improved security 🔐
 
+Improved performance of image rendering in gallery 🖼️
+
