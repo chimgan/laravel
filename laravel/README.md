@@ -2940,3 +2940,5 @@ Improved performance of image rendering in gallery 🖼️
 
 Resolved issue with API rate limiting restrictions 🔄
 
+Added support for image cropping and resizing 🖼️
+
