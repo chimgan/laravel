@@ -2980,3 +2980,5 @@ Refactored CSS styles for improved responsiveness 🎨
 
 Updated documentation for enhanced readability 📚
 
+Deployed application to cloud server ☁️
+
