@@ -2982,3 +2982,5 @@ Updated documentation for enhanced readability 📚
 
 Deployed application to cloud server ☁️
 
+Introduced automated testing to improve code quality 🧪
+
