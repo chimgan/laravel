@@ -2994,3 +2994,5 @@ Implemented new feature based on user feedback 💡
 
 Fixed memory leak in application 💻
 
+Added support for multiple languages 🌐
+
