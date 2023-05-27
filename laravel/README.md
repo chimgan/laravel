@@ -2992,3 +2992,5 @@ Refactored codebase to comply with coding standards 📋
 
 Implemented new feature based on user feedback 💡
 
+Fixed memory leak in application 💻
+
