@@ -2998,3 +2998,5 @@ Added support for multiple languages 🌐
 
 Optimized rendering performance for smoother animations 🎥
 
+Resolved cross-browser compatibility issues 🌐
+
