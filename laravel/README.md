@@ -3020,3 +3020,5 @@ Implemented caching mechanism for faster load times ⏳
 
 Fixed issue with file permissions 📁
 
+Added responsive design for mobile devices 📱
+
