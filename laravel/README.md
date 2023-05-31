@@ -3026,3 +3026,5 @@ Implemented dark mode theme option 🌓
 
 Updated README file with installation instructions 📝
 
+Resolved CSS styling conflicts 🎭
+
