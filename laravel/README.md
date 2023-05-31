@@ -3024,3 +3024,5 @@ Added responsive design for mobile devices 📱
 
 Implemented dark mode theme option 🌓
 
+Updated README file with installation instructions 📝
+
