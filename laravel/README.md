@@ -3060,3 +3060,5 @@ Optimized front-end performance with lazy loading 🚀
 
 Resolved SSL certificate expiration 🛡️
 
+Added support for WebP image format 🖼️
+
