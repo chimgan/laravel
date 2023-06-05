@@ -3070,3 +3070,5 @@ Refactored code for improved readability 📜
 
 Implemented OAuth2 authorization flow 🔑
 
+Added error logging for easier debugging 🪓
+
