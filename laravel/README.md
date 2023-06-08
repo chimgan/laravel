@@ -3098,3 +3098,5 @@ Resolved issue with CORS policy 🔄
 
 Implemented feature flag toggling for staging environment 🏁
 
+Added support for WebP image format 🖼️
+
