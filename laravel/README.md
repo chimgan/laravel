@@ -3124,3 +3124,5 @@ Optimized image loading for better performance 🖼️
 
 Implemented feature for exporting data to CSV format 📊
 
+Fixed issue with URL routing 🚧
+
