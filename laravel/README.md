@@ -3126,3 +3126,5 @@ Implemented feature for exporting data to CSV format 📊
 
 Fixed issue with URL routing 🚧
 
+Added support for drag-and-drop file uploads 📁
+
