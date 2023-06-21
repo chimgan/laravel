@@ -3170,3 +3170,5 @@ Updated documentation for better understanding 📝
 
 Refactored code for readability and efficiency
 
+Fixed edge case in decision tree implementation 🌲
+
