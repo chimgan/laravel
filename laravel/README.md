@@ -3166,3 +3166,5 @@ Implemented facial recognition feature 👤
 
 Fine-tuned hyperparameters for improved results
 
+Updated documentation for better understanding 📝
+
