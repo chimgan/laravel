@@ -3172,3 +3172,5 @@ Refactored code for readability and efficiency
 
 Fixed edge case in decision tree implementation 🌲
 
+Added support for cloud-based training
+
