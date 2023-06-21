@@ -3184,3 +3184,5 @@ Added unit tests for increased reliability
 
 Updated dependencies to latest versions ⬆️
 
+Implemented anomaly detection algorithm 🧐
+
