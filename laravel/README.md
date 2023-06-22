@@ -3186,3 +3186,5 @@ Updated dependencies to latest versions ⬆️
 
 Implemented anomaly detection algorithm 🧐
 
+Fixed memory leak in recurrent neural network
+
