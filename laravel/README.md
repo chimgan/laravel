@@ -3194,3 +3194,5 @@ Integrated feedback loop for continuous improvement
 
 Improved model interpretability for stakeholders
 
+Added support for multiple GPUs 💻
+
