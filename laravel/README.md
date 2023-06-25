@@ -3196,3 +3196,5 @@ Improved model interpretability for stakeholders
 
 Added support for multiple GPUs 💻
 
+Fine-tuned learning rate for better convergence 🎓
+
