@@ -3200,3 +3200,5 @@ Fine-tuned learning rate for better convergence 🎓
 
 Resolved performance bottleneck in clustering algorithm
 
+Updated README with installation instructions 📚
+
