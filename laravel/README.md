@@ -3202,3 +3202,5 @@ Resolved performance bottleneck in clustering algorithm
 
 Updated README with installation instructions 📚
 
+Added support for transfer learning 🔄
+
