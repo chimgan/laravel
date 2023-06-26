@@ -3206,3 +3206,5 @@ Added support for transfer learning 🔄
 
 Deployed model to cloud server ☁️
 
+Optimized model inference speed 🕒
+
