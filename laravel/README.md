@@ -3216,3 +3216,5 @@ Refactored codebase to adhere to coding standards
 
 Experimenting with ensemble learning techniques 🎭
 
+Implemented auto-encoder for dimensionality reduction
+
