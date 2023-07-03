@@ -3244,3 +3244,5 @@ Fixed database connection issue in data pipeline
 
 Implemented reinforcement learning agent 🕹️
 
+Added support for GPU acceleration ⚡
+
