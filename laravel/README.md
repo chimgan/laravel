@@ -3270,3 +3270,5 @@ Deployed model to production server 🚀
 
 Fine-tuned model architecture for specific use case
 
+Added support for automated hyperparameter tuning 🎛️
+
