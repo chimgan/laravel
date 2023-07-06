@@ -3274,3 +3274,5 @@ Added support for automated hyperparameter tuning 🎛️
 
 Resolved issue with data preprocessing steps
 
+Enhanced model interpretability with SHAP values
+
