@@ -3288,3 +3288,5 @@ Improved loss function for better model training
 
 Integrated model explainability module for transparency
 
+Implemented attention mechanism for sequence modeling
+
