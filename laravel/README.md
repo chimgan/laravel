@@ -3284,3 +3284,5 @@ Optimized model inference speed for real-time applications ⏱️
 
 Fixed issue with missing data in dataset
 
+Improved loss function for better model training
+
