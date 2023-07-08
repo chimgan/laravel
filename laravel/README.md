@@ -3296,3 +3296,5 @@ Added support for incremental learning 📚
 
 Optimized model hyperparameters for domain-specific tasks
 
+Fixed issue with memory consumption in training process
+
