@@ -3306,3 +3306,5 @@ Implemented adversarial training for robustness
 
 Deployed model using serverless architecture ☁️
 
+Fine-tuned model for improved accuracy and precision
+
