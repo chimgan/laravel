@@ -3316,3 +3316,5 @@ Improved model training pipeline for scalability
 
 Updated configuration files for consistency 📁
 
+Implemented graph convolutional network for graph data
+
