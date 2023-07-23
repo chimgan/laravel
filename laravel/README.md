@@ -3416,3 +3416,5 @@ Added support for custom loss functions for model optimization 💹
 
 Implemented adversarial attacks defense mechanism for model security 🛡️
 
+Enhanced model explainability through feature importance analysis 📊
+
