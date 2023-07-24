@@ -3438,3 +3438,5 @@ Implemented federated learning for privacy-preserving model training 🛡️
 
 Enhanced model interpretability through LIME explanations 🧮
 
+Added support for transfer learning with pre-trained models 🧠➡️🧠
+
