@@ -3436,3 +3436,5 @@ Optimized model hyperparameters for enhanced prediction accuracy 🔍
 
 Implemented federated learning for privacy-preserving model training 🛡️
 
+Enhanced model interpretability through LIME explanations 🧮
+
