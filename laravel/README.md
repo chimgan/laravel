@@ -3468,3 +3468,5 @@ Enhanced model performance with early stopping criteria ⏹️
 
 Implemented data augmentation methods for improved model training 🌀
 
+Added federated learning approach for privacy-preserving model training 🛡️
+
