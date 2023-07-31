@@ -3482,3 +3482,5 @@ Implemented secure models with adversarial robustness methods 🛡️
 
 Enhanced model transparency through SHAP value analysis 🧮
 
+Added support for personalized loss functions in model training 💹
+
