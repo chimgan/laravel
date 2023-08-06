@@ -3548,3 +3548,5 @@ Creating automated testing scripts 🤖🧪
 
 Updating design to keep up with modern trends 💻
 
+Investigating memory leaks for stability 🕵️
+
