@@ -3560,3 +3560,5 @@ Resolving conflicts with grace and skill 🛡️
 
 Enhancing code quality through peer review 👩‍💻👨‍💻
 
+Reorganizing project structure for clarity 📦
+
