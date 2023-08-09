@@ -3564,3 +3564,5 @@ Reorganizing project structure for clarity 📦
 
 Mitigating security vulnerabilities 🔒
 
+Validating input data against malformed requests 🛑
+
