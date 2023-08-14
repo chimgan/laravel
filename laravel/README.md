@@ -3636,3 +3636,5 @@ Automating regression testing procedures 🔄
 
 Enhancing code modularity for reusability 🧩
 
+Mitigating SQL injection vulnerabilities ⚔️
+
