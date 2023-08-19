@@ -3674,3 +3674,5 @@ Automating deployment with continuous delivery 🚛
 
 Optimizing database indexes for faster queries 🔍
 
+Implementing OAuth authentication for security 🔒
+
