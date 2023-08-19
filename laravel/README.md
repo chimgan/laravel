@@ -3676,3 +3676,5 @@ Optimizing database indexes for faster queries 🔍
 
 Implementing OAuth authentication for security 🔒
 
+Integrating WebSockets for real-time updates ⚡
+
