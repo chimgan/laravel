@@ -3688,3 +3688,5 @@ Creating detailed user stories for feature development 📖
 
 Optimizing SVG images for faster loading 🖼️
 
+Securing cookies with HttpOnly and Secure flags 🍪
+
