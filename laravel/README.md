@@ -3712,3 +3712,5 @@ Refactoring code to eliminate code smells 🧼
 
 Implementing WebP image format for smaller file sizes 🖼️
 
+Integrating performance monitoring tools for insights 🕵️
+
