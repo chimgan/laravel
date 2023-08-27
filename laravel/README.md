@@ -3766,3 +3766,5 @@ Scaling algorithms to handle big data sets 📈
 
 Implementing reinforcement learning for adaptive systems 🔄
 
+Improving recommendation engines with collaborative filtering 🎥
+
