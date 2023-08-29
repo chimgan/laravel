@@ -3806,3 +3806,5 @@ Developing AI ethics guidelines for responsible AI usage 🤖🚫
 
 Optimizing model inference speed for real-time applications ⏩
 
+Training models for anomaly detection in cybersecurity 🛡️🔒
+
