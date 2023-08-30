@@ -3810,3 +3810,5 @@ Training models for anomaly detection in cybersecurity 🛡️🔒
 
 Enhancing AI explainability for transparent decision-making 📊
 
+Implementing self-supervised learning for unsupervised tasks 🧩
+
