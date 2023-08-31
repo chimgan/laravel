@@ -3830,3 +3830,5 @@ Enabling AI-driven simulations for scientific discoveries 🔬
 
 Improving model generalization for better real-world performance 🌎
 
+Training models with synthetic data for data augmentation 🔄
+
