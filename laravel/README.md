@@ -3900,3 +3900,5 @@ Implementing AI-driven social media analytics for sentiment analysis 📱📊
 
 Enhancing AI-powered image classification for visual search 🖼️🔍
 
+Optimizing model inference speed with quantization techniques 📊🔍
+
