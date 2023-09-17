@@ -3972,3 +3972,5 @@ Fine-tuned hyperparameters for optimal performance 🔧🎯
 
 Integrated OCR for text extraction from images 📷🔤
 
+Designed AI to assist in medical diagnosis 🩺🤖
+
