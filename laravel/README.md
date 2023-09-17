@@ -3970,3 +3970,5 @@ Deployed AI chatbot for customer support 🤖📞
 
 Fine-tuned hyperparameters for optimal performance 🔧🎯
 
+Integrated OCR for text extraction from images 📷🔤
+
