@@ -3974,3 +3974,5 @@ Integrated OCR for text extraction from images 📷🔤
 
 Designed AI to assist in medical diagnosis 🩺🤖
 
+Implemented time series forecasting with AI model ⏰📈
+
