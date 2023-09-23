@@ -3998,3 +3998,5 @@ Enhanced AI's interpretability for transparent decision-making 🕵️🧠
 
 Added explainability to AI predictions for user trust ℹ️🔍
 
+Deployed AI model for environmental monitoring 🌍🌐
+
