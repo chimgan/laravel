@@ -4004,3 +4004,5 @@ Fine-tuned model for robustness against adversarial attacks 🛡️
 
 Integrated AI for autonomous navigation 🚗🤖📍
 
+Implemented AI for automated speech recognition 🗣️🤖
+
