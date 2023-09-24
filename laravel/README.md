@@ -4000,3 +4000,5 @@ Added explainability to AI predictions for user trust ℹ️🔍
 
 Deployed AI model for environmental monitoring 🌍🌐
 
+Fine-tuned model for robustness against adversarial attacks 🛡️
+
