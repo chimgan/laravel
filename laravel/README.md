@@ -4002,3 +4002,5 @@ Deployed AI model for environmental monitoring 🌍🌐
 
 Fine-tuned model for robustness against adversarial attacks 🛡️
 
+Integrated AI for autonomous navigation 🚗🤖📍
+
