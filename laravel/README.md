@@ -4036,3 +4036,5 @@ Fine-tuned model for accurate object detection 🎯📦
 
 Integrated AI for autonomous vehicle control 🚗🤖🚦
 
+Implemented AI for speech-to-text transcription 🗣️🔡
+
