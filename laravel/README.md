@@ -4052,3 +4052,5 @@ Fine-tuned model for emotion recognition in speech 🗣️😢😃
 
 Integrated AI for autonomous inventory management 📦🤖📦
 
+Implemented AI for predictive maintenance in manufacturing 🏭🤖
+
