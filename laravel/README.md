@@ -4068,3 +4068,5 @@ Fine-tuned model for sentiment analysis in social media posts 😠😊🤖
 
 Integrated AI for smart home automation 🏠🤖🔌
 
+Implemented AI for predictive analytics in sports 🏀📈🤖
+
