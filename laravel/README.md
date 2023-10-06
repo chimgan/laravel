@@ -4066,3 +4066,5 @@ Deployed AI model for disease diagnosis and treatment 🩺💊🤖
 
 Fine-tuned model for sentiment analysis in social media posts 😠😊🤖
 
+Integrated AI for smart home automation 🏠🤖🔌
+
