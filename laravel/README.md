@@ -4154,3 +4154,5 @@ Fine-tuning model for real-time predictions
 
 Implementing data augmentation techniques
 
+Adding support for anomaly detection
+
