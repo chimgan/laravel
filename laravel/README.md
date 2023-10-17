@@ -4158,3 +4158,5 @@ Adding support for anomaly detection
 
 Integrating explainable AI methods
 
+Optimizing model for edge computing
+
