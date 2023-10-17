@@ -4150,3 +4150,5 @@ Experimenting with transfer learning techniques
 
 Integrating object detection capabilities
 
+Fine-tuning model for real-time predictions
+
