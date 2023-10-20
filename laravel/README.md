@@ -4186,3 +4186,5 @@ Integrating AI-powered virtual assistant
 
 Adding support for automated data cleaning
 
+Enhancing model explainability with SHAP values
+
