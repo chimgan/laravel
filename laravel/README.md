@@ -4200,3 +4200,5 @@ Implementing knowledge distillation for model compression
 
 Integrating AI chatbot for knowledge base
 
+Optimizing model for mobile devices
+
