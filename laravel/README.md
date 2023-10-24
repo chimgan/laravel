@@ -4248,3 +4248,5 @@ Implementing AI-driven video content analysis
 
 Integrating AI for climate change prediction
 
+Optimizing model for edge devices
+
