@@ -4258,3 +4258,5 @@ Refactoring code for scalable deployment
 
 Implementing AI for natural disaster response planning
 
+Integrating AI for smart energy management
+
