@@ -4302,3 +4302,5 @@ Added unit tests to ensure code reliability ✅
 
 Enhanced user interface with new design elements 💻
 
+Refactored CSS stylesheets for better responsiveness 🎨
+
