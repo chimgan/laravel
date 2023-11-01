@@ -4326,3 +4326,5 @@ Resolved HTTP request errors with status code 404 🚫
 
 Added feature toggle to enable/disable experimental features 🔘
 
+Resolved CORS policy issues for cross-origin requests 🔄
+
