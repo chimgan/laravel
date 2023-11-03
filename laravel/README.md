@@ -4336,3 +4336,5 @@ Fixed memory leak in application runtime 🧠
 
 Implemented multi-factor authentication for enhanced security 🔑
 
+Updated README file with installation instructions ℹ️
+
