@@ -4338,3 +4338,5 @@ Implemented multi-factor authentication for enhanced security 🔑
 
 Updated README file with installation instructions ℹ️
 
+Refactored code for better readability and maintainability 📘
+
