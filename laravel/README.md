@@ -4350,3 +4350,5 @@ Deployed rollback mechanism for database transactions ⏪
 
 Resolved timeout issue with server-side requests ⏲️
 
+Integrated cloud storage for scalable data handling ☁️
+
