@@ -4402,3 +4402,5 @@ Resolved deadlock issue in concurrent database transactions ⚔️
 
 Refactored legacy code for modernization and performance 🔄
 
+Added role-based access control for managing user permissions 🔐
+
