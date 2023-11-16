@@ -4406,3 +4406,5 @@ Added role-based access control for managing user permissions 🔐
 
 Enhanced email notifications for better user engagement 📧
 
+Deployed serverless architecture for cost-efficient scaling 🖥️
+
