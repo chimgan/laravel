@@ -4430,3 +4430,5 @@ Fixed broken links in navigation menu 🚧
 
 Integrated CDN for faster content delivery 🚚
 
+Implemented email verification for user registration 📧
+
