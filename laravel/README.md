@@ -4424,3 +4424,5 @@ Enhanced database indexing for faster query execution ⚡
 
 Deployed Kubernetes cluster for container orchestration 🐳
 
+Optimized image resources for better page load performance 🖼️
+
