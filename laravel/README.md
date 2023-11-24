@@ -4498,3 +4498,5 @@ Fixed issue with API endpoint returning incorrect data 🛠️
 
 Squashed a few pesky bugs 🐛
 
+Integrated payment gateway for seamless transactions 💳
+
