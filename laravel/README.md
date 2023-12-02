@@ -4546,3 +4546,5 @@ Integrated biometric authentication for added security 🤳
 
 Updated user permissions for improved access control 🔑
 
+Resolved issue with file upload validation 📁
+
