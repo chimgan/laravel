@@ -4586,3 +4586,5 @@ Integrated OAuth authentication for third-party login 🗝️
 
 Resolved issue with infinite scroll pagination 🔄
 
+Added feature to export data to CSV format 📊
+
