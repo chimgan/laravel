@@ -4644,3 +4644,5 @@ Added support for natural language processing 🗣️
 
 Refactored code for better readability 📦
 
+Fixed bug causing segmentation fault 🐞
+
