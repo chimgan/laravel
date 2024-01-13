@@ -4872,3 +4872,5 @@ Fix typo in variable name 📝
 
 Add regularization to prevent overfitting 🛡️
 
+Squash commits for cleaner history 🍅
+
