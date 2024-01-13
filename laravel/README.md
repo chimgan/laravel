@@ -4874,3 +4874,5 @@ Add regularization to prevent overfitting 🛡️
 
 Squash commits for cleaner history 🍅
 
+Add validation checks for input data 🛠️
+
