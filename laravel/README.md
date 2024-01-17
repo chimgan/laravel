@@ -4900,3 +4900,5 @@ Add unit tests for code coverage ✔️
 
 Document API endpoints for better understanding 📚
 
+Reduce model complexity for faster training 🏃
+
