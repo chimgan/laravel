@@ -4920,3 +4920,5 @@ Update README with project overview ℹ️
 
 Create Dockerfile for easier deployment 🐳
 
+Add error handling for robustness ⚠️
+
