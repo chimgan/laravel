@@ -4944,3 +4944,5 @@ Implement model tuning for optimal performance ⚖️
 
 Improve data cleaning pipeline 🧼
 
+Fix issue with class imbalance in dataset ⚖️
+
