@@ -4960,3 +4960,5 @@ Improve logging for better monitoring 📋
 
 Fix test failures in CI pipeline 🚨
 
+Merge hotfix branch into production 🩹
+
