@@ -4978,3 +4978,5 @@ Update project roadmap for transparency 🗺️
 
 Create issue template for better collaboration 📝
 
+Fix deployment script for smoother releases 🚀
+
