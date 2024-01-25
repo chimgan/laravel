@@ -4980,3 +4980,5 @@ Create issue template for better collaboration 📝
 
 Fix deployment script for smoother releases 🚀
 
+Improve input data validation checks 🛠️
+
