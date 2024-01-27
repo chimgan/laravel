@@ -4998,3 +4998,5 @@ Fix CORS policy for cross-origin requests 🌐
 
 Optimize image preprocessing pipeline 🖼️
 
+Enhance logging for easier debugging 🐜
+
