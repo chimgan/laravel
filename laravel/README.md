@@ -4994,3 +4994,5 @@ Refactor API endpoints for better routing 🛣️
 
 Update frontend design for better UX 🎨
 
+Fix CORS policy for cross-origin requests 🌐
+
