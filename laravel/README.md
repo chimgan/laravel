@@ -5024,3 +5024,5 @@ Refactored codebase for better scalability 🔧
 
 Integrated AI chatbot for customer support 🤖
 
+Trained model on large dataset 📊
+
