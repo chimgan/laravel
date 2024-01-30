@@ -5034,3 +5034,5 @@ Enhanced image recognition capabilities 🖼️
 
 Deployed AI model to production environment 🚢
 
+Collaborated with team on knowledge sharing platform 📚
+
