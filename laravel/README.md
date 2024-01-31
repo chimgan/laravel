@@ -5044,3 +5044,5 @@ Optimized memory usage for faster inference ⚡
 
 Designed custom loss function for specific task 🎯
 
+Experimented with different activation functions for model optimization 💡
+
