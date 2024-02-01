@@ -5064,3 +5064,5 @@ Optimized GPU utilization for accelerated training ⛏️
 
 Collaborated with research team on cutting-edge technology 🧬
 
+Implemented transfer learning to leverage pre-trained models 🔄
+
