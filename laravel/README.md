@@ -5100,3 +5100,5 @@ Deployed AI solution for predictive maintenance in manufacturing 🔧
 
 Collaborated with domain experts for data annotation and labeling 👩‍💼
 
+Integrated explainability tools for model transparency 🧐
+
