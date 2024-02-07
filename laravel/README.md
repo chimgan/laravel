@@ -5098,3 +5098,5 @@ Optimized compute resources for cost-effective solutions 💰
 
 Deployed AI solution for predictive maintenance in manufacturing 🔧
 
+Collaborated with domain experts for data annotation and labeling 👩‍💼
+
