@@ -5106,3 +5106,5 @@ Developed AI-driven fraud detection system for financial security 🔒
 
 Optimized training process for deep learning models 🏋️
 
+Collaborated with design team for AI-powered creative tools 🎨
+
