@@ -5110,3 +5110,5 @@ Collaborated with design team for AI-powered creative tools 🎨
 
 Implemented feature selection techniques for model efficiency 🧰
 
+Enhanced data privacy measures for GDPR compliance 🗄️
+
