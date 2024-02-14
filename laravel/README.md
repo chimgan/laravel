@@ -5130,3 +5130,5 @@ Enhanced model robustness against adversarial attacks 🛡️
 
 Deployed AI solution for smart energy management systems 🌿
 
+Collaborated with legal team for AI ethics and compliance 📜
+
