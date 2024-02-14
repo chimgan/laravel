@@ -5132,3 +5132,5 @@ Deployed AI solution for smart energy management systems 🌿
 
 Collaborated with legal team for AI ethics and compliance 📜
 
+Implemented fairness and bias detection for model evaluation 🤖
+
