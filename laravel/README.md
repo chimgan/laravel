@@ -5138,3 +5138,5 @@ Optimized data preprocessing workflow for efficiency 🔄
 
 Developed AI-driven content recommendation engine 📺
 
+Collaborated with frontend team for seamless integration UI/UX 🖥️
+
