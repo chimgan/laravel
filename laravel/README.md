@@ -5140,3 +5140,5 @@ Developed AI-driven content recommendation engine 📺
 
 Collaborated with frontend team for seamless integration UI/UX 🖥️
 
+Integrated self-supervised learning for unlabeled data utilization 🤯
+
