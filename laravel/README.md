@@ -5156,3 +5156,5 @@ Fine-tuned reinforcement learning for autonomous agent behavior 🏃
 
 Engineered AI solution for predictive maintenance in smart cities 🌆
 
+Collaborated with medical professionals for healthcare AI applications ⚕️
+
