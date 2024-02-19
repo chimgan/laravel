@@ -5158,3 +5158,5 @@ Engineered AI solution for predictive maintenance in smart cities 🌆
 
 Collaborated with medical professionals for healthcare AI applications ⚕️
 
+Integrated time series forecasting for predictive analytics 📈
+
