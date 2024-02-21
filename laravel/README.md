@@ -5170,3 +5170,5 @@ Enhanced model performance with ensemble learning techniques 🤖
 
 Deployed AI solution for anomaly detection in industrial IoT 🏭
 
+Collaborated with policymakers for AI governance and regulation 🏛️
+
