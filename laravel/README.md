@@ -5192,3 +5192,5 @@ Deployed AI solution for intelligent resource allocation in logistics 🚚
 
 Collaborated with social scientists for AI applications in behavioral analysis 🧠
 
+Integrated fairness metrics for bias detection and mitigation 📉
+
