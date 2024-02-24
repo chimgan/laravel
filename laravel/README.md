@@ -5188,3 +5188,5 @@ Implemented adversarial training for robustness against attacks 🛡️
 
 Optimized hyperparameter search for efficient model tuning ⚙️
 
+Deployed AI solution for intelligent resource allocation in logistics 🚚
+
