@@ -5260,3 +5260,5 @@ Designed AI-driven content curation system for personalized experiences 📰
 
 👩‍💻 Empowered team collaboration with effective communication strategies.
 
+🎬 Directed code reviews for better code quality assurance.
+
