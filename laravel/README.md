@@ -5344,3 +5344,5 @@ Designed AI-driven content curation system for personalized experiences 📰
 
 🛠️ Assembled a toolkit for smoother development processes.
 
+👩‍💻 Fostered collaboration through effective communication strategies.
+
