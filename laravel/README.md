@@ -5408,3 +5408,5 @@ Optimized user experience through AI-driven personalization 🛠️
 
 Enhanced speech recognition accuracy with LSTM models 🎙️
 
+Deployed AI-powered recommendation engines for e-commerce 🛒
+
