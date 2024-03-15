@@ -5440,3 +5440,5 @@ Deployed autonomous drones controlled by AI 🚁
 
 Enhanced predictive maintenance with IoT and AI 🛠️
 
+Developed AI models for climate change prediction 🌍
+
