@@ -5438,3 +5438,5 @@ Leveraged AI for personalized marketing campaigns 📊
 
 Deployed autonomous drones controlled by AI 🚁
 
+Enhanced predictive maintenance with IoT and AI 🛠️
+
