@@ -5460,3 +5460,5 @@ Optimized fraud detection algorithms with AI 🕵️
 
 Integrated AI for real-time traffic prediction 🚗
 
+Developed AI for personalized fitness and diet plans 🏋️‍♂️
+
