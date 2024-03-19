@@ -5464,3 +5464,5 @@ Developed AI for personalized fitness and diet plans 🏋️‍♂️
 
 Enhanced social media analytics with AI-powered insights 📲
 
+Utilized AI for automated sentiment analysis in reviews 💬
+
