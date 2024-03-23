@@ -5494,3 +5494,5 @@ Implemented AI-driven optimization for logistics 🚚
 
 Optimized energy consumption with AI-based solutions ⚡
 
+Developed AI models for predictive maintenance in manufacturing 🏭
+
