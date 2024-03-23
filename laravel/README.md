@@ -5498,3 +5498,5 @@ Developed AI models for predictive maintenance in manufacturing 🏭
 
 Enhanced image recognition accuracy using transfer learning 🖼️
 
+Utilized AI for demand forecasting in retail 🛍️
+
