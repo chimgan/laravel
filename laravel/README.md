@@ -5504,3 +5504,5 @@ Enabled emotion detection in AI-powered virtual assistants 😄
 
 Integrated AI in speech-to-text transcription services 🎙️
 
+Deployed autonomous vehicles controlled by AI 🚗
+
