@@ -5552,3 +5552,5 @@ Enhanced security protocol against potential threats 🔒
 
 Updated dependencies to latest versions 🔄
 
+Applied design patterns for better code structure 🏗️
+
