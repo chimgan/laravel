@@ -5560,3 +5560,5 @@ Implemented feature to increase scalability 🚀
 
 Cleaned up codebase for better readability 🧹
 
+Optimized UI for seamless navigation 🌐
+
