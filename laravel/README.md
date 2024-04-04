@@ -5572,3 +5572,5 @@ Reverted previous commit for better approach ↩️
 
 Implemented dark mode for user preference 🌙
 
+Refined error handling mechanisms for robustness 🚨
+
