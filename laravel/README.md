@@ -5598,3 +5598,5 @@ Fixed compatibility issues with legacy systems 🔄
 
 Enhanced error logging for better debugging 🔍
 
+Added support for new file formats 📁
+
