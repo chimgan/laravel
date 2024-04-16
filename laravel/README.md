@@ -5698,3 +5698,5 @@ Added tooltips for improved user guidance ℹ️
 
 Optimized rendering pipeline for smoother animations 🔄
 
+Integrated WebSocket technology for real-time updates 🔄
+
