@@ -5736,3 +5736,5 @@ Documenting code for future reference 📝
 
 Collaborating with team to enhance project 🤝
 
+Squashing merge conflicts like a pro 🤼
+
