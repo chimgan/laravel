@@ -5786,3 +5786,5 @@ Migrating data to cloud storage securely ☁️
 
 Ensuring data privacy compliance regulations 🔐
 
+Automating data pipelines for scalability 🤖
+
