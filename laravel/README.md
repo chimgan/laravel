@@ -5776,3 +5776,5 @@ Designing intuitive user experiences 🖌️
 
 Scaling infrastructure for increased load ⚙️
 
+Creating interactive data visualizations 📈
+
