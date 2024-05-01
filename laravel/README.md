@@ -5834,3 +5834,5 @@ Generating synthetic images for dataset augmentation 🖼️
 
 Implementing model explainability techniques 🧐
 
+Improving model prediction intervals for uncertainty 🎲
+
