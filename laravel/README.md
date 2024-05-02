@@ -5842,3 +5842,5 @@ Integrating social media sentiment analysis 📱
 
 Training models with federated learning techniques 🌐
 
+Model compression for efficient deployment 📦
+
