@@ -5844,3 +5844,5 @@ Training models with federated learning techniques 🌐
 
 Model compression for efficient deployment 📦
 
+Building recommendation systems with collaborative filtering 🛒
+
