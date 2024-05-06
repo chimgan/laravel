@@ -5860,3 +5860,5 @@ Implementing sentiment analysis for text classification 📝
 
 Enhancing conversational AI with natural language understanding 🗣️
 
+Optimizing model inference speed with quantization ⚖️
+
