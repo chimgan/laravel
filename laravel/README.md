@@ -5862,3 +5862,5 @@ Enhancing conversational AI with natural language understanding 🗣️
 
 Optimizing model inference speed with quantization ⚖️
 
+Implementing image segmentation for object detection 📸
+
