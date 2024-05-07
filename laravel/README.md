@@ -5876,3 +5876,5 @@ Enhancing deep learning architectures with attention mechanisms ⚡️
 
 Improving model performance with transfer learning techniques 🔄
 
+Fine-tuning model hyperparameters with Bayesian optimization 🎨
+
