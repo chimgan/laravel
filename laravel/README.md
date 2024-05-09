@@ -5884,3 +5884,5 @@ Implementing explainable AI for transparent decision-making 🕵️
 
 Training models with synthetic data augmentation techniques 🛠️
 
+Building autonomous vehicles with computer vision algorithms 🚗
+
