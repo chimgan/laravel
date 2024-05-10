@@ -5888,3 +5888,5 @@ Building autonomous vehicles with computer vision algorithms 🚗
 
 Enhancing model resilience with adversarial training methods 🛡️
 
+Implementing real-time face recognition with deep learning 🤳
+
