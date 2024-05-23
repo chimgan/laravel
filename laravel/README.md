@@ -5980,3 +5980,5 @@ Implemented feature for real-time updates 🔥
 
 Resolved compatibility issue with third-party libraries 🔄
 
+Enhanced error logging for better debugging ℹ️
+
