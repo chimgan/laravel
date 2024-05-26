@@ -6000,3 +6000,5 @@ Added support for cross-validation in model evaluation 🔄
 
 Fixed memory allocation bug causing crashes 💢
 
+Resolved issue with feature transformation 🌀
+
