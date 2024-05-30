@@ -6028,3 +6028,5 @@ Optimized algorithm for faster convergence 🏎️
 
 Implemented interpretable machine learning models 🤔
 
+Added support for incremental learning 📈
+
