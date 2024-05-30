@@ -6030,3 +6030,5 @@ Implemented interpretable machine learning models 🤔
 
 Added support for incremental learning 📈
 
+Resolved issue with input data formatting 📝
+
