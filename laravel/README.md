@@ -6162,3 +6162,5 @@ Analyze AI biases and mitigate them for fair outcomes ⚖️
 
 Develop AI for healthcare applications to improve patient care ⚕️
 
+Train AI models on edge devices for real-time inference ⏱️
+
