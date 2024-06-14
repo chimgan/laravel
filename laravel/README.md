@@ -6160,3 +6160,5 @@ Incorporate multi-task learning for versatile AI capabilities 📚
 
 Analyze AI biases and mitigate them for fair outcomes ⚖️
 
+Develop AI for healthcare applications to improve patient care ⚕️
+
