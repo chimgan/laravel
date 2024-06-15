@@ -6180,3 +6180,5 @@ Develop AI chatbot for customer support services 🤖
 
 Augment AI models with explainability features 🧐
 
+Deploy AI for environmental monitoring and analysis 🌎
+
