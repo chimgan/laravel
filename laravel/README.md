@@ -6314,3 +6314,5 @@ Implemented ensemble learning for robust predictions 🤝
 
 Refactored code to adhere to style guide 📝
 
+Fixed issue with input validation logic 🛠️🔍
+
