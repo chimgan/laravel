@@ -6328,3 +6328,5 @@ Implemented bagging technique for model aggregation 🎒🤝
 
 Fixed performance bottleneck with parallel processing ⚙️🏃
 
+Introduced regularization to prevent overfitting 🛡️🔀
+
