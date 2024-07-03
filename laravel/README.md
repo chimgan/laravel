@@ -6340,3 +6340,5 @@ Refactored code to reduce technical debt 💸🧹
 
 Fixed caching issue for faster data retrieval 🕰️🔧
 
+Applied grid search for hyperparameter tuning 🔍⚙️
+
