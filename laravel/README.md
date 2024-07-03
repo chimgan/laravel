@@ -6344,3 +6344,5 @@ Applied grid search for hyperparameter tuning 🔍⚙️
 
 Introduced data preprocessing pipeline for efficiency 🚰⚙️
 
+Optimized inference speed with model quantization ⏳💻
+
