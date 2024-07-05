@@ -6366,3 +6366,5 @@ Refactored codebase to modularize functionality 🗃️🔀
 
 Fixed issue with API endpoint for seamless integration 🔄🔗
 
+Introduced early stopping to prevent model overfitting ⏹️🛡️
+
