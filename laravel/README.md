@@ -6386,3 +6386,5 @@ Applied feature scaling for consistent model input 📏⚖️
 
 Optimized model architecture for efficient training 🏗️🚀
 
+Added regularization term for model generalization 🛡️🧠
+
