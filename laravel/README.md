@@ -6392,3 +6392,5 @@ Implemented tree-based algorithm for interpretable predictions 🌳💡
 
 Refactored code to adhere to best practices 📘🔧
 
+Fixed issue with dependency conflict in environment 🛠️🍂
+
