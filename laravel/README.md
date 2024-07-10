@@ -6394,3 +6394,5 @@ Refactored code to adhere to best practices 📘🔧
 
 Fixed issue with dependency conflict in environment 🛠️🍂
 
+Added batch normalization for improved training stability 📊🧘
+
