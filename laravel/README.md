@@ -6406,3 +6406,5 @@ Implemented data augmentation techniques for enhanced robustness 📈🔧
 
 Refactored code structure for better organization 📝🗄️
 
+Fixed issue with model serialization for deployment 🛡️🚀
+
