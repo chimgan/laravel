@@ -6410,3 +6410,5 @@ Fixed issue with model serialization for deployment 🛡️🚀
 
 Enhanced model interpretability with SHAP values 📊🔍
 
+Integrated GPU acceleration for faster computations 🚀💻
+
