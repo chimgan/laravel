@@ -6428,3 +6428,5 @@ Added learning rate annealing for adaptive optimization 📉⚙️
 
 Integrated model checkpointing for resuming training sessions 🏁🔀
 
+Applied weighted sampling for imbalanced dataset handling 📊⚖️
+
