@@ -6434,3 +6434,5 @@ Implemented early stopping criterion for training convergence ⏹️🔄
 
 Refactored codebase to improve modularity 🗃️🔧
 
+Fixed issue with cross-validation splits in dataset 🛠️📊
+
