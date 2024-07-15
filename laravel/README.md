@@ -6452,3 +6452,5 @@ Fixed issue with data leakage in feature selection 🐛🔒
 
 Added progress bar for real-time feedback during training 📈🚦
 
+Applied model pruning for reducing model complexity 🌳🧹
+
