@@ -6460,3 +6460,5 @@ Implemented pipeline caching for faster workflow execution 🕰️🚀
 
 Refactored code to utilize GPU acceleration for computations 🕰️🚀
 
+Fixed issue with model evaluation metric calculation 🛠️📊
+
