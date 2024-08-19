@@ -6698,3 +6698,5 @@ Improved accessibility for better user inclusivity ♿
 
 Optimized image compression for faster loading ⏩
 
+Updated README with detailed instructions ℹ️
+
