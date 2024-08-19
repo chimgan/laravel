@@ -6700,3 +6700,5 @@ Optimized image compression for faster loading ⏩
 
 Updated README with detailed instructions ℹ️
 
+Added support for multiple languages 🌍
+
