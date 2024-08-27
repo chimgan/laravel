@@ -6746,3 +6746,5 @@ Implemented secure password hashing for user privacy 🔒
 
 Refactored API endpoints for cleaner structure 🛠️
 
+Fixed broken image links on website 🖼️
+
