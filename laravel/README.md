@@ -6762,3 +6762,5 @@ Built interactive data visualizations for better insights 📊
 
 Added support for web notifications 🛎️
 
+Improved validation messages for better user guidance 📝
+
