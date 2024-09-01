@@ -6786,3 +6786,5 @@ Fixed layout issues on mobile devices 📱
 
 Implemented feature flags for controlled release 🚩
 
+Added support for screen reader accessibility ♿
+
