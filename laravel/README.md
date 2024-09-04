@@ -6810,3 +6810,5 @@ Added support for push notifications 📲
 
 Optimized session management for improved security 🔒
 
+Resolved issues with email notifications not sending 📧
+
