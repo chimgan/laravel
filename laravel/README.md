@@ -6936,3 +6936,5 @@ Implemented pagination for streamlined content presentation 📄
 
 Added search functionality for quick data retrieval 🔎
 
+Refactored code structure for better code organization 🗂️
+
