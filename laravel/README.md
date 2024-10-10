@@ -7058,3 +7058,5 @@ Enhanced AI's speech synthesis capabilities 🎙️
 
 Improved AI's response time in conversational interfaces 💬
 
+Designed custom loss function for AI model training 📉
+
