@@ -7060,3 +7060,5 @@ Improved AI's response time in conversational interfaces 💬
 
 Designed custom loss function for AI model training 📉
 
+Integrated AI chatbot with customer service platform 💬
+
