@@ -7194,3 +7194,5 @@ Implemented active learning strategy to optimize AI model training 📚
 
 Trained AI to generate personalized news recommendations 📰
 
+Added support for explainable AI in decision-making processes 🤔
+
