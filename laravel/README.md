@@ -7218,3 +7218,5 @@ Deployed AI assistant to streamline decision-making processes 🤝
 
 Integrated natural language processing for improved communication 🗣️
 
+Developed sentiment analysis feature for social media monitoring 😃
+
