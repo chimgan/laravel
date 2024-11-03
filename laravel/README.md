@@ -7268,3 +7268,5 @@ Utilized ensemble learning techniques for improved accuracy 🎯
 
 Enhanced model interpretability through model-agnostic methods 🔍
 
+Developed personalized recommendation system using collaborative filtering 🛒
+
