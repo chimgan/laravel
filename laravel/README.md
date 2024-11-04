@@ -7272,3 +7272,5 @@ Developed personalized recommendation system using collaborative filtering 🛒
 
 Augmented dataset with data augmentation techniques 🔄
 
+Optimized model architecture for efficiency and performance ⚙️
+
