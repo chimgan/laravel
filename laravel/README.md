@@ -7320,3 +7320,5 @@ Deployed AI-driven decision support system for critical operations 🛠️
 
 Enabled real-time predictive analytics for dynamic insights 📈
 
+Developed personalized medicine recommendations using genomics 🧬
+
